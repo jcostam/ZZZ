@@ -6,6 +6,8 @@ public class clase1 {
 		System.out.println("Clase original ");
 		System.out.println("Clase refactorizada ");
 		System.out.println("Clase documentada ");
+		
+		System.out.println("Cambios hechos desde GitHub ");
 	}
 
 }
